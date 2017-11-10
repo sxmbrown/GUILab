@@ -1,9 +1,9 @@
 # GUILab
 Created for UNM CS251 in Fall of 2017
---------------------------------------------------------------------
+
             DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
                     Version 2, December 2004
-
+                    
  Copyright (C) 2004 Sam Hocevar <sam@hocevar.net>
 
  Everyone is permitted to copy and distribute verbatim or modified
@@ -14,4 +14,3 @@ Created for UNM CS251 in Fall of 2017
    TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
 
   0. You just DO WHAT THE FUCK YOU WANT TO.
----------------------------------------------------------------------
